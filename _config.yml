@@ -1,0 +1,29 @@
+name: neetu
+favicon: null
+layout_spectrum: 0.006619435967877507
+typography_spectrum: 0.9729475844651461
+title: neetu graphics
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.6471513628493994
+  lightness: 0.46968795848079026
+  saturation: 0.657448866404593
+  rhythmicContrast: 0.5354652490932494
+purpose: []
